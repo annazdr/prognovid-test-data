@@ -1,0 +1,616 @@
+pkd_2007;nazwa_pkd_2007
+01.11;Uprawa zbóż, roślin strączkowych i roślin oleistych na nasiona, z wyłączeniem ryżu
+01.12;Uprawa ryżu
+01.13;Uprawa warzyw, włączając melony oraz uprawa roślin korzeniowych i roślin bulwiastych
+01.14;Uprawa trzciny cukrowej
+01.15;Uprawa tytoniu
+01.16;Uprawa roślin włóknistych
+01.19;Pozostałe uprawy rolne inne niż wieloletnie
+01.21;Uprawa winogron
+01.22;Uprawa drzew i krzewów owocowych tropikalnych i podzwrotnikowych
+01.23;Uprawa drzew i krzewów owocowych cytrusowych
+01.24;Uprawa drzew i krzewów owocowych ziarnkowych i pestkowych
+01.25;Uprawa pozostałych drzew i krzewów owocowych oraz orzechów
+01.26;Uprawa drzew oleistych
+01.27;Uprawa roślin wykorzystywanych do produkcji napojów
+01.28;Uprawa roślin przyprawowych i aromatycznych oraz roślin wykorzystywanych do produkcji leków i wyrobów farmaceutycznych
+01.29;Uprawa pozostałych roślin wieloletnich
+01.30;Rozmnażanie roślin
+01.41;Chów i hodowla bydła mlecznego
+01.42;Chów i hodowla pozostałego bydła i bawołów
+01.43;Chów i hodowla koni i pozostałych zwierząt koniowatych
+01.44;Chów i hodowla wielbłądów i zwierząt wielbłądowatych
+01.45;Chów i hodowla owiec i kóz
+01.46;Chów i hodowla świń
+01.47;Chów i hodowla drobiu
+01.49;Chów i hodowla pozostałych zwierząt
+01.50;Uprawy rolne połączone z chowem i hodowlą zwierząt (działalność mieszana)
+01.61;Działalność usługowa wspomagająca produkcję roślinną
+01.62;Działalność usługowa wspomagająca chów i hodowlę zwierząt gospodarskich
+01.63;Działalność usługowa następująca po zbiorach
+01.64;Obróbka nasion dla celów rozmnażania roślin
+01.70;Łowiectwo i pozyskiwanie zwierząt łownych, włączając działalność usługową
+02.10;Gospodarka leśna i pozostała działalność leśna, z wyłączeniem pozyskiwania produktów leśnych
+02.20;Pozyskiwanie drewna
+02.30;Pozyskiwanie dziko rosnących produktów leśnych, z wyłączeniem drewna
+02.40;Działalność usługowa związana z leśnictwem
+03.11;Rybołówstwo w wodach morskich
+03.12;Rybołówstwo w wodach śródlądowych
+03.21;Chów i hodowla ryb oraz pozostałych organizmów wodnych w wodach morskich
+03.22;Chów i hodowla ryb oraz pozostałych organizmów wodnych w wodach śródlądowych
+05.10;Wydobywanie węgla kamiennego
+03.20;Wydobywanie węgla brunatnego (lignitu)
+06.10;Górnictwo ropy naftowej
+06.20;Górnictwo gazu ziemnego
+07.10;Górnictwo rud żelaza
+07.21;Górnictwo rud uranu i toru
+07.29;Górnictwo pozostałych rud metali nieżelaznych
+08.11;Wydobywanie kamieni ozdobnych oraz kamienia dla potrzeb budownictwa, skał wapiennych, gipsu, kredy i łupków
+08.12;"Wydobywanie żwiru i piasku; wydobywanie gliny i kaolinu"
+08.91;Wydobywanie minerałów dla przemysłu chemicznego oraz do produkcji nawozów
+08.92;Wydobywanie torfu
+08.93;Wydobywanie soli
+08.99;Pozostałe górnictwo i wydobywanie, gdzie indziej niesklasyfikowane
+09.10;Działalność usługowa wspomagająca eksploatację złóż ropy naftowej i gazu ziemnego
+09.90;Działalność usługowa wspomagająca pozostałe górnictwo i wydobywanie
+10.11;Przetwarzanie i konserwowanie mięsa, z wyłączeniem mięsa z drobiu
+10.12;Przetwarzanie i konserwowanie mięsa z drobiu
+10.13;Produkcja wyrobów z mięsa, włączając wyroby z mięsa drobiowego
+10.20;Przetwarzanie i konserwowanie ryb, skorupiaków i mięczaków
+10.31;Przetwarzanie i konserwowanie ziemniaków
+10.32;Produkcja soków z owoców i warzyw
+10.39;Pozostałe przetwarzanie i konserwowanie owoców i warzyw
+10.41;Produkcja olejów i pozostałych tłuszczów płynnych
+10.42;Produkcja margaryny i podobnych tłuszczów jadalnych
+10.51;Przetwórstwo mleka i wyrób serów
+10.52;Produkcja lodów
+10.61;Wytwarzanie produktów przemiału zbóż
+10.62;Wytwarzanie skrobi i wyrobów skrobiowych
+10.71;"Produkcja pieczywa; produkcja świeżych wyrobów ciastkarskich i ciastek"
+10.72;"Produkcja sucharów i herbatników; produkcja konserwowanych wyrobów ciastkarskich i ciastek"
+10.73;Produkcja makaronów, klusek, kuskusu i podobnych wyrobów mącznych
+10.81;Produkcja cukru
+10.82;Produkcja kakao, czekolady i wyrobów cukierniczych
+10.83;Przetwórstwo herbaty i kawy
+10.84;Produkcja przypraw
+10.85;Wytwarzanie gotowych posiłków i dań
+10.86;Produkcja artykułów spożywczych homogenizowanych i żywności dietetycznej
+10.89;Produkcja pozostałych artykułów spożywczych, gdzie indziej niesklasyfikowana
+10.91;Produkcja gotowej paszy dla zwierząt gospodarskich
+10.92;Produkcja gotowej karmy dla zwierząt domowych
+11.01;Destylowanie, rektyfikowanie i mieszanie alkoholi
+11.02;Produkcja win gronowych
+11.03;Produkcja cydru i pozostałych win owocowych
+11.04;Produkcja pozostałych niedestylowanych napojów fermentowanych
+11.05;Produkcja piwa
+11.06;Produkcja słodu
+11.07;"Produkcja napojów bezalkoholowych; produkcja wód mineralnych i pozostałych wód butelkowanych"
+12.00;PRODUKCJA WYROBÓW TYTONIOWYCH
+13.10;Przygotowanie i przędzenie włókien tekstylnych
+13.20;Produkcja tkanin
+13.30;Wykończanie wyrobów włókienniczych
+13.91;Produkcja dzianin metrażowych
+13.92;Produkcja gotowych wyrobów tekstylnych
+13.93;Produkcja dywanów i chodników
+13.94;Produkcja wyrobów powroźniczych, lin, szpagatów i wyrobów sieciowych
+13.95;Produkcja włóknin i wyrobów wykonanych z włóknin, z wyłączeniem odzieży
+13.96;Produkcja pozostałych technicznych i przemysłowych wyrobów tekstylnych
+13.99;Produkcja pozostałych wyrobów tekstylnych, gdzie indziej niesklasyfikowana
+14.11;Produkcja odzieży skórzanej
+14.12;Produkcja odzieży roboczej
+14.13;Produkcja pozostałej odzieży wierzchniej
+14.14;Produkcja bielizny
+14.19;Produkcja pozostałej odzieży i dodatków do odzieży
+14.20;Produkcja wyrobów futrzarskich
+14.31;Produkcja wyrobów pończoszniczych
+14.39;Produkcja pozostałej odzieży dzianej
+15.11;"Wyprawa skór, garbowanie; wyprawa i barwienie skór futerkowych"
+15.12;"Produkcja toreb bagażowych, toreb ręcznych i podobnych wyrobów kaletniczych; produkcja wyrobów rymarskich"
+15.20;Produkcja obuwia
+16.10;Produkcja wyrobów tartacznych
+16.21;Produkcja arkuszy fornirowych i płyt wykonanych na bazie drewna
+16.22;Produkcja gotowych parkietów podłogowych
+16.23;Produkcja pozostałych wyrobów stolarskich i ciesielskich dla budownictwa
+16.24;Produkcja opakowań drewnianych
+16.29;"Produkcja pozostałych wyrobów z drewna; produkcja wyrobów z korka, słomy i materiałów używanych do wyplatania"
+17.11;Produkcja masy włóknistej
+17.12;Produkcja papieru i tektury
+17.21;Produkcja papieru falistego i tektury falistej oraz opakowań z papieru i tektury
+17.22;Produkcja artykułów gospodarstwa domowego, toaletowych i sanitarnych
+17.23;Produkcja artykułów piśmiennych
+17.24;Produkcja tapet
+17.29;Produkcja pozostałych wyrobów z papieru i tektury
+18.11;Drukowanie gazet
+18.12;Pozostałe drukowanie
+18.13;Działalność usługowa związana z przygotowywaniem do druku
+18.14;Introligatorstwo i podobne usługi
+18.20;Reprodukcja zapisanych nośników informacji
+19.10;Wytwarzanie i przetwarzanie koksu
+19.20;Wytwarzanie i przetwarzanie produktów rafinacji ropy naftowej
+20.11;Produkcja gazów technicznych
+20.12;Produkcja barwników i pigmentów
+20.13;Produkcja pozostałych podstawowych chemikaliów nieorganicznych
+20.14;Produkcja pozostałych podstawowych chemikaliów organicznych
+20.15;Produkcja nawozów i związków azotowych
+20.16;Produkcja tworzyw sztucznych w formach podstawowych
+20.17;Produkcja kauczuku syntetycznego w formach podstawowych
+20.20;Produkcja pestycydów i pozostałych środków agrochemicznych
+20.30;Produkcja farb, lakierów i podobnych powłok, farb drukarskich i mas uszczelniających
+20.41;Produkcja mydła i detergentów, środków myjących i czyszczących
+20.42;Produkcja wyrobów kosmetycznych i toaletowych
+20.51;Produkcja materiałów wybuchowych
+20.52;Produkcja klejów
+20.53;Produkcja olejków eterycznych
+20.59;Produkcja pozostałych wyrobów chemicznych, gdzie indziej niesklasyfikowana
+20.60;Produkcja włókien chemicznych
+21.10;Produkcja podstawowych substancji farmaceutycznych
+21.20;Produkcja leków i pozostałych wyrobów farmaceutycznych
+22.11;"Produkcja opon i dętek z gumy; bieżnikowanie i regenerowanie opon z gumy"
+22.19;Produkcja pozostałych wyrobów z gumy
+22.21;Produkcja płyt, arkuszy, rur i kształtowników z tworzyw sztucznych
+22.22;Produkcja opakowań z tworzyw sztucznych
+22.23;Produkcja wyrobów dla budownictwa z tworzyw sztucznych
+22.29;Produkcja pozostałych wyrobów z tworzyw sztucznych
+23.11;Produkcja szkła płaskiego
+23.12;Kształtowanie i obróbka szkła płaskiego
+23.13;Produkcja szkła gospodarczego
+23.14;Produkcja włókien szklanych
+23.19;Produkcja i obróbka pozostałego szkła, włączając szkło techniczne
+23.20;Produkcja wyrobów ogniotrwałych
+23.31;Produkcja ceramicznych kafli i płytek
+23.32;Produkcja cegieł, dachówek i materiałów budowlanych, z wypalanej gliny
+23.41;Produkcja ceramicznych wyrobów stołowych i ozdobnych
+23.42;Produkcja ceramicznych wyrobów sanitarnych
+23.43;Produkcja ceramicznych izolatorów i osłon izolacyjnych
+23.44;Produkcja pozostałych technicznych wyrobów ceramicznych
+23.49;Produkcja pozostałych wyrobów ceramicznych
+23.51;Produkcja cementu
+23.52;Produkcja wapna i gipsu
+23.61;Produkcja wyrobów budowlanych z betonu
+23.62;Produkcja wyrobów budowlanych z gipsu
+23.63;Produkcja masy betonowej prefabrykowanej
+23.64;Produkcja zaprawy murarskiej
+23.65;Produkcja cementu wzmocnionego włóknem
+23.69;Produkcja pozostałych wyrobów z betonu, gipsu i cementu
+23.70;Cięcie, formowanie i wykańczanie kamienia
+23.91;Produkcja wyrobów ściernych
+23.99;Produkcja pozostałych wyrobów z mineralnych surowców niemetalicznych, gdzie indziej niesklasyfikowana
+24.10;Produkcja surówki, żelazostopów, żeliwa i stali oraz wyrobów hutniczych
+24.20;Produkcja rur, przewodów, kształtowników zamkniętych i łączników, ze stali
+24.31;Produkcja prętów ciągnionych na zimno
+24.32;Produkcja wyrobów płaskich walcowanych na zimno
+24.33;Produkcja wyrobów formowanych na zimno
+24.34;Produkcja drutu
+24.41;Produkcja metali szlachetnych
+24.42;Produkcja aluminium
+24.43;Produkcja ołowiu, cynku i cyny
+24.44;Produkcja miedzi
+24.45;Produkcja pozostałych metali nieżelaznych
+24.46;Wytwarzanie paliw jądrowych
+24.51;Odlewnictwo żeliwa
+24.52;Odlewnictwo staliwa
+24.53;Odlewnictwo metali lekkich
+24.54;Odlewnictwo pozostałych metali nieżelaznych
+25.11;Produkcja konstrukcji metalowych i ich części
+25.12;Produkcja metalowych elementów stolarki budowlanej
+25.21;Produkcja grzejników i kotłów centralnego ogrzewania
+25.29;Produkcja pozostałych zbiorników, cystern i pojemników metalowych
+25.30;Produkcja wytwornic pary, z wyłączeniem kotłów do centralnego ogrzewania gorącą wodą
+25.40;Produkcja broni i amunicji
+25.50;"Kucie, prasowanie, wytłaczanie i walcowanie metali; metalurgia proszków"
+25.61;Obróbka metali i nakładanie powłok na metale
+25.62;Obróbka mechaniczna elementów metalowych
+25.71;Produkcja wyrobów nożowniczych i sztućców
+25.72;Produkcja zamków i zawiasów
+25.73;Produkcja narzędzi
+25.91;Produkcja pojemników metalowych
+25.92;Produkcja opakowań z metali 
+25.93;Produkcja wyrobów z drutu, łańcuchów i sprężyn
+25.94;Produkcja złączy i śrub
+25.99;Produkcja pozostałych gotowych wyrobów metalowych, gdzie indziej niesklasyfikowana
+26.11;Produkcja elementów elektronicznych
+26.12;Produkcja elektronicznych obwodów drukowanych
+26.20;Produkcja komputerów i urządzeń peryferyjnych
+26.30;Produkcja sprzętu (tele)komunikacyjnego
+26.40;Produkcja elektronicznego sprzętu powszechnego użytku
+26.51;Produkcja instrumentów i przyrządów pomiarowych, kontrolnych i nawigacyjnych
+26.52;Produkcja zegarków i zegarów
+26.60;Produkcja urządzeń napromieniowujących, sprzętu elektromedycznego i elektroterapeutycznego
+26.70;Produkcja instrumentów optycznych i sprzętu fotograficznego
+26.80;Produkcja magnetycznych i optycznych niezapisanych nośników informacji
+27.11;Produkcja elektrycznych silników, prądnic i transformatorów
+27.12;Produkcja aparatury rozdzielczej i sterowniczej energii elektrycznej
+27.20;Produkcja baterii i akumulatorów
+27.31;Produkcja kabli światłowodowych
+27.32;Produkcja pozostałych elektronicznych i elektrycznych przewodów i kabli
+27.33;Produkcja sprzętu instalacyjnego
+27.40;Produkcja elektrycznego sprzętu oświetleniowego
+27.51;Produkcja elektrycznego sprzętu gospodarstwa domowego
+27.52;Produkcja nieelektrycznego sprzętu gospodarstwa domowego
+27.90;Produkcja pozostałego sprzętu elektrycznego
+28.11;Produkcja silników i turbin, z wyłączeniem silników lotniczych, samochodowych i motocyklowych
+28.12;Produkcja sprzętu i wyposażenia do napędu hydraulicznego i pneumatycznego
+28.13;Produkcja pozostałych pomp i sprężarek
+28.14;Produkcja pozostałych kurków i zaworów
+28.15;Produkcja łożysk, kół zębatych, przekładni zębatych i elementów napędowych
+28.21;Produkcja pieców, palenisk i palników piecowych
+28.22;Produkcja urządzeń dźwigowych i chwytaków
+28.23;Produkcja maszyn i sprzętu biurowego, z wyłączeniem komputerów i urządzeń peryferyjnych
+28.24;Produkcja narzędzi ręcznych mechanicznych
+28.25;Produkcja przemysłowych urządzeń chłodniczych i wentylacyjnych
+28.29;Produkcja pozostałych maszyn ogólnego przeznaczenia, gdzie indziej niesklasyfikowana
+28.30;Produkcja maszyn dla rolnictwa i leśnictwa
+28.41;Produkcja maszyn do obróbki metalu
+28.49;Produkcja pozostałych narzędzi mechanicznych
+28.91;Produkcja maszyn dla metalurgii
+28.92;Produkcja maszyn dla górnictwa i do wydobywania oraz budownictwa
+28.93;Produkcja maszyn stosowanych w przetwórstwie żywności, tytoniu i produkcji napojów
+28.94;Produkcja maszyn dla przemysłu tekstylnego, odzieżowego i skórzanego
+28.95;Produkcja maszyn dla przemysłu papierniczego
+28.96;Produkcja maszyn do obróbki gumy lub tworzyw sztucznych oraz wytwarzania wyrobów z tych materiałów
+28.99;Produkcja pozostałych maszyn specjalnego przeznaczenia, gdzie indziej niesklasyfikowana
+29.10;Produkcja pojazdów samochodowych, z wyłączeniem motocykli
+29.20;"Produkcja nadwozi do pojazdów silnikowych; produkcja przyczep i naczep"
+29.31;Produkcja wyposażenia elektrycznego i elektronicznego do pojazdów silnikowych
+29.32;Produkcja pozostałych części i akcesoriów do pojazdów silnikowych, z wyłączeniem motocykli
+30.11;Produkcja statków i konstrukcji pływających
+30.12;Produkcja łodzi wycieczkowych i sportowych
+30.20;Produkcja lokomotyw kolejowych oraz taboru szynowego
+30.30;Produkcja statków powietrznych, statków kosmicznych i podobnych maszyn
+30.40;Produkcja wojskowych pojazdów bojowych
+30.91;Produkcja motocykli
+30.92;Produkcja rowerów i wózków inwalidzkich
+30.99;Produkcja pozostałego sprzętu transportowego, gdzie indziej niesklasyfikowana
+31.01;Produkcja mebli biurowych i sklepowych
+31.02;Produkcja mebli kuchennych
+31.03;Produkcja materaców
+31.09;Produkcja pozostałych mebli
+32.11;Produkcja monet
+32.12;Produkcja wyrobów jubilerskich i podobnych
+32.13;Produkcja sztucznej biżuterii i wyrobów podobnych
+32.20;Produkcja instrumentów muzycznych
+32.30;Produkcja sprzętu sportowego
+32.40;Produkcja gier i zabawek
+32.50;Produkcja urządzeń, instrumentów oraz wyrobów medycznych, włączając dentystyczne
+32.91;Produkcja mioteł, szczotek i pędzli
+32.99;Produkcja pozostałych wyrobów, gdzie indziej niesklasyfikowana
+33.11;Naprawa i konserwacja metalowych wyrobów gotowych
+33.12;Naprawa i konserwacja maszyn
+33.13;Naprawa i konserwacja urządzeń elektronicznych i optycznych
+33.14;Naprawa i konserwacja urządzeń elektrycznych
+33.15;Naprawa i konserwacja statków i łodzi
+33.16;Naprawa i konserwacja statków powietrznych i statków kosmicznych
+33.17;Naprawa i konserwacja pozostałego sprzętu transportowego
+33.19;Naprawa i konserwacja pozostałego sprzętu i wyposażenia
+33.20;Instalowanie maszyn przemysłowych, sprzętu i wyposażenia
+35.11;Wytwarzanie energii elektrycznej
+35.12;Przesyłanie energii elektrycznej
+35.13;Dystrybucja energii elektrycznej
+35.14;Handel energią elektryczną
+35.21;Wytwarzanie paliw gazowych
+35.22;Dystrybucja paliw gazowych w systemie sieciowym
+35.23;Handel paliwami gazowymi w systemie sieciowym
+35.30;Wytwarzanie i zaopatrywanie w parę wodną, gorącą wodę i powietrze do układów klimatyzacyjnych
+36.00;POBÓR, UZDATNIANIE I DOSTARCZANIE WODY
+37.00;ODPROWADZANIE I OCZYSZCZANIE ŚCIEKÓW
+38.11;Zbieranie odpadów innych niż niebezpieczne
+38.12;Zbieranie odpadów niebezpiecznych
+38.21;Obróbka i usuwanie odpadów innych niż niebezpieczne
+38.22;Przetwarzanie i unieszkodliwianie odpadów niebezpiecznych
+38.31;Demontaż wyrobów zużytych
+38.32;Odzysk surowców z materiałów segregowanych
+39.00;DZIAŁALNOŚĆ ZWIĄZANA Z REKULTYWACJĄ I POZOSTAŁA DZIAŁALNOŚĆ USŁUGOWA ZWIĄZANA Z GOSPODARKĄ ODPADAMI
+41.10;Realizacja projektów budowlanych związanych ze wznoszeniem budynków
+41.20;Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych
+42.11;Roboty związane z budową dróg i autostrad
+42.12;Roboty związane z budową dróg szynowych i kolei podziemnej
+42.13;Roboty związane z budową mostów i tuneli
+42.21;Roboty związane z budową rurociągów przesyłowych i sieci rozdzielczych
+42.22;Roboty związane z budową linii telekomunikacyjnych i elektroenergetycznych
+42.91;Roboty związane z budową obiektów inżynierii wodnej
+42.99;Roboty związane z budową pozostałych obiektów inżynierii lądowej i wodnej, gdzie indziej niesklasyfikowane
+43.11;Rozbiórka i burzenie obiektów budowlanych
+43.12;Przygotowanie terenu pod budowę
+43.13;Wykonywanie wykopów i wierceń geologiczno-inżynierskich
+43.21;Wykonywanie instalacji elektrycznych
+43.22;Wykonywanie instalacji wodno-kanalizacyjnych, cieplnych, gazowych i klimatyzacyjnych
+43.29;Wykonywanie pozostałych instalacji budowlanych
+43.31;Tynkowanie
+43.32;Zakładanie stolarki budowlanej
+43.33;"Posadzkarstwo; tapetowanie i oblicowywanie ścian"
+43.34;Malowanie i szklenie
+43.39;Wykonywanie pozostałych robót budowlanych wykończeniowych
+43.91;Wykonywanie konstrukcji i pokryć dachowych
+43.99;Pozostałe specjalistyczne roboty budowlane, gdzie indziej niesklasyfikowane
+45.11;Sprzedaż hurtowa i detaliczna samochodów osobowych i furgonetek
+45.19;Sprzedaż hurtowa i detaliczna pozostałych pojazdów samochodowych, z wyłączeniem motocykli
+45.20;Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli
+45.31;Sprzedaż hurtowa części i akcesoriów do pojazdów samochodowych, z wyłączeniem motocykli
+45.32;Sprzedaż detaliczna części i akcesoriów do pojazdów samochodowych, z wyłączeniem motocykli
+45.40;Sprzedaż hurtowa i detaliczna motocykli, ich naprawa i konserwacja oraz sprzedaż hurtowa i detaliczna części i akcesoriów do nich
+46.11;Działalność agentów zajmujących się sprzedażą płodów rolnych, żywych zwierząt, surowców dla przemysłu tekstylnego i półproduktów
+46.12;Działalność agentów zajmujących się sprzedażą paliw, rud, metali i chemikaliów przemysłowych
+46.13;Działalność agentów zajmujących się sprzedażą drewna i materiałów budowlanych
+46.14;Działalność agentów zajmujących się sprzedażą maszyn, urządzeń przemysłowych, statków i samolotów
+46.15;Działalność agentów zajmujących się sprzedażą mebli, artykułów gospodarstwa domowego i drobnych wyrobów metalowych
+46.16;Działalność agentów zajmujących się sprzedażą wyrobów tekstylnych, odzieży, wyrobów futrzarskich, obuwia i artykułów skórzanych
+46.17;Działalność agentów zajmujących się sprzedażą żywności, napojów i wyrobów tytoniowych
+46.18;Działalność agentów specjalizujących się w sprzedaży pozostałych określonych towarów
+46.19;Działalność agentów zajmujących się sprzedażą towarów różnego rodzaju
+46.21;Sprzedaż hurtowa zboża, nieprzetworzonego tytoniu, nasion i pasz dla zwierząt
+46.22;Sprzedaż hurtowa kwiatów i roślin
+46.23;Sprzedaż hurtowa żywych zwierząt
+46.24;Sprzedaż hurtowa skór
+46.31;Sprzedaż hurtowa owoców i warzyw
+46.32;Sprzedaż hurtowa mięsa i wyrobów z mięsa
+46.33;Sprzedaż hurtowa mleka, wyrobów mleczarskich, jaj, olejów i tłuszczów jadalnych
+46.34;Sprzedaż hurtowa napojów alkoholowych i bezalkoholowych
+46.35;Sprzedaż hurtowa wyrobów tytoniowych
+46.36;Sprzedaż hurtowa cukru, czekolady, wyrobów cukierniczych i piekarskich
+46.37;Sprzedaż hurtowa herbaty, kawy, kakao i przypraw
+46.38;Sprzedaż hurtowa pozostałej żywności, włączając ryby, skorupiaki i mięczaki
+46.39;Sprzedaż hurtowa niewyspecjalizowana żywności, napojów i wyrobów tytoniowych
+46.41;Sprzedaż hurtowa wyrobów tekstylnych
+46.42;Sprzedaż hurtowa odzieży i obuwia
+46.43;Sprzedaż hurtowa elektrycznych artykułów użytku domowego
+46.44;Sprzedaż hurtowa wyrobów porcelanowych, ceramicznych i szklanych oraz środków czyszczących
+46.45;Sprzedaż hurtowa perfum i kosmetyków
+46.46;Sprzedaż hurtowa wyrobów farmaceutycznych i medycznych
+46.47;Sprzedaż hurtowa mebli, dywanów i sprzętu oświetleniowego
+46.48;Sprzedaż hurtowa zegarków, zegarów i biżuterii
+46.49;Sprzedaż hurtowa pozostałych artykułów użytku domowego
+46.51;Sprzedaż hurtowa komputerów, urządzeń peryferyjnych i oprogramowania
+46.52;Sprzedaż hurtowa sprzętu elektronicznego i telekomunikacyjnego oraz części do niego
+46.61;Sprzedaż hurtowa maszyn i urządzeń rolniczych oraz dodatkowego wyposażenia
+46.62;Sprzedaż hurtowa obrabiarek
+46.63;Sprzedaż hurtowa maszyn wykorzystywanych w górnictwie, budownictwie oraz inżynierii lądowej i wodnej
+46.64;Sprzedaż hurtowa maszyn dla przemysłu tekstylnego oraz maszyn do szycia i maszyn dziewiarskich
+46.65;Sprzedaż hurtowa mebli biurowych
+46.66;Sprzedaż hurtowa pozostałych maszyn i urządzeń biurowych
+46.69;Sprzedaż hurtowa pozostałych maszyn i urządzeń
+46.71;Sprzedaż hurtowa paliw i produktów pochodnych
+46.72;Sprzedaż hurtowa metali i rud metali
+46.73;Sprzedaż hurtowa drewna, materiałów budowlanych i wyposażenia sanitarnego
+46.74;Sprzedaż hurtowa wyrobów metalowych oraz sprzętu i dodatkowego wyposażenia hydraulicznego i grzejnego
+46.75;Sprzedaż hurtowa wyrobów chemicznych
+46.76;Sprzedaż hurtowa pozostałych półproduktów
+46.77;Sprzedaż hurtowa odpadów i złomu
+46.90;Sprzedaż hurtowa niewyspecjalizowana
+47.11;Sprzedaż detaliczna prowadzona w niewyspecjalizowanych sklepach z przewagą żywności, napojów i wyrobów tytoniowych
+47.19;Pozostała sprzedaż detaliczna prowadzona w niewyspecjalizowanych sklepach
+47.21;Sprzedaż detaliczna owoców i warzyw prowadzona w wyspecjalizowanych sklepach
+47.22;Sprzedaż detaliczna mięsa i wyrobów z mięsa prowadzona w wyspecjalizowanych sklepach
+47.23;Sprzedaż detaliczna ryb, skorupiaków i mięczaków prowadzona w wyspecjalizowanych sklepach
+47.24;Sprzedaż detaliczna pieczywa, ciast, wyrobów ciastkarskich i cukierniczych prowadzona w wyspecjalizowanych sklepach
+47.25;Sprzedaż detaliczna napojów alkoholowych i bezalkoholowych prowadzona w wyspecjalizowanych sklepach
+47.26;Sprzedaż detaliczna wyrobów tytoniowych prowadzona w wyspecjalizowanych sklepach
+47.29;Sprzedaż detaliczna pozostałej żywności prowadzona w wyspecjalizowanych sklepach
+47.30;Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw
+47.41;Sprzedaż detaliczna komputerów, urządzeń peryferyjnych i oprogramowania prowadzona w wyspecjalizowanych sklepach
+47.42;Sprzedaż detaliczna sprzętu telekomunikacyjnego prowadzona w wyspecjalizowanych sklepach
+47.43;Sprzedaż detaliczna sprzętu audiowizualnego prowadzona w wyspecjalizowanych sklepach
+47.51;Sprzedaż detaliczna wyrobów tekstylnych prowadzona w wyspecjalizowanych sklepach
+47.52;Sprzedaż detaliczna drobnych wyrobów metalowych, farb i szkła prowadzona w wyspecjalizowanych sklepach
+47.53;Sprzedaż detaliczna dywanów, chodników i innych pokryć podłogowych oraz pokryć ściennych prowadzona w wyspecjalizowanych sklepach
+47.54;Sprzedaż detaliczna elektrycznego sprzętu gospodarstwa domowego prowadzona w wyspecjalizowanych sklepach
+47.59;Sprzedaż detaliczna mebli, sprzętu oświetleniowego i pozostałych artykułów użytku domowego prowadzona w wyspecjalizowanych sklepach
+47.61;Sprzedaż detaliczna książek prowadzona w wyspecjalizowanych sklepach
+47.62;Sprzedaż detaliczna gazet i artykułów piśmiennych prowadzona w wyspecjalizowanych sklepach
+47.63;Sprzedaż detaliczna nagrań dźwiękowych i audiowizualnych prowadzona w wyspecjalizowanych sklepach
+47.64;Sprzedaż detaliczna sprzętu sportowego prowadzona w wyspecjalizowanych sklepach
+47.65;Sprzedaż detaliczna gier i zabawek prowadzona w wyspecjalizowanych sklepach
+47.71;Sprzedaż detaliczna odzieży prowadzona w wyspecjalizowanych sklepach
+47.72;Sprzedaż detaliczna obuwia i wyrobów skórzanych prowadzona w wyspecjalizowanych sklepach
+47.73;Sprzedaż detaliczna wyrobów farmaceutycznych prowadzona w wyspecjalizowanych sklepach
+47.74;Sprzedaż detaliczna wyrobów medycznych, włączając ortopedyczne, prowadzona w wyspecjalizowanych sklepach
+47.75;Sprzedaż detaliczna kosmetyków i artykułów toaletowych prowadzona w wyspecjalizowanych sklepach
+47.76;Sprzedaż detaliczna kwiatów, roślin, nasion, nawozów, żywych zwierząt domowych, karmy dla zwierząt domowych prowadzona w wyspecjalizowanych sklepach
+47.77;Sprzedaż detaliczna zegarków, zegarów i biżuterii prowadzona w wyspecjalizowanych sklepach
+47.78;Sprzedaż detaliczna pozostałych nowych wyrobów prowadzona w wyspecjalizowanych sklepach
+47.79;Sprzedaż detaliczna artykułów używanych prowadzona w wyspecjalizowanych sklepach
+47.81;Sprzedaż detaliczna żywności, napojów i wyrobów tytoniowych prowadzona na straganach i targowiskach
+47.82;Sprzedaż detaliczna wyrobów tekstylnych, odzieży i obuwia prowadzona na straganach i targowiskach
+47.89;Sprzedaż detaliczna pozostałych wyrobów prowadzona na straganach i targowiskach
+47.91;Sprzedaż detaliczna prowadzona przez domy sprzedaży wysyłkowej lub Internet
+47.99;Pozostała sprzedaż detaliczna prowadzona poza siecią sklepową, straganami i targowiskami
+49.10;Transport kolejowy pasażerski międzymiastowy
+49.20;Transport kolejowy towarów
+49.31;Transport lądowy pasażerski, miejski i podmiejski
+49.32;Działalność taksówek osobowych
+49.39;Pozostały transport lądowy pasażerski, gdzie indziej niesklasyfikowany
+49.41;Transport drogowy towarów
+49.42;Działalność usługowa związana z przeprowadzkami
+49.50;Transport rurociągowy
+50.10;Transport morski i przybrzeżny pasażerski
+50.20;Transport morski i przybrzeżny towarów
+50.30;Transport wodny śródlądowy pasażerski 
+50.40;Transport wodny śródlądowy towarów
+51.10;Transport lotniczy pasażerski
+51.21;Transport lotniczy towarów
+51.22;Transport kosmiczny
+52.10;Magazynowanie i przechowywanie towarów
+52.21;Działalność usługowa wspomagająca transport lądowy
+52.22;Działalność usługowa wspomagająca transport wodny
+52.23;Działalność usługowa wspomagająca transport lotniczy
+52.24;Przeładunek towarów
+52.29;Pozostała działalność usługowa wspomagająca transport
+53.10;Działalność pocztowa objęta obowiązkiem świadczenia usług powszechnych (operatora publicznego)
+53.20;Pozostała działalność pocztowa i kurierska
+55.10;Hotele i podobne obiekty zakwaterowania
+55.20;Obiekty noclegowe turystyczne i miejsca krótkotrwałego zakwaterowania
+55.30;Pola kempingowe (włączając pola dla pojazdów kempingowych) i pola namiotowe
+55.90;Pozostałe zakwaterowanie
+56.10;Restauracje i pozostałe placówki gastronomiczne
+56.21;Przygotowywanie i dostarczanie żywności dla odbiorców zewnętrznych (katering)
+56.29;Pozostała usługowa działalność gastronomiczna
+56.30;Przygotowywanie i podawanie napojów
+58.11;Wydawanie książek
+58.12;Wydawanie wykazów oraz list (np. adresowych, telefonicznych)
+58.13;Wydawanie gazet
+58.14;Wydawanie czasopism i pozostałych periodyków
+58.19;Pozostała działalność wydawnicza
+58.21;Działalność wydawnicza w zakresie gier komputerowych
+58.29;Działalność wydawnicza w zakresie pozostałego oprogramowania
+59.11;Działalność związana z produkcją filmów, nagrań wideo i programów telewizyjnych
+59.12;Działalność postprodukcyjna związana z filmami, nagraniami wideo i programami telewizyjnymi
+59.13;Działalność związana z dystrybucją filmów, nagrań wideo i programów telewizyjnych
+59.14;Działalność związana z projekcją filmów
+59.20;Działalność w zakresie nagrań dźwiękowych i muzycznych
+60.10;Nadawanie programów radiofonicznych
+60.20;Nadawanie programów telewizyjnych ogólnodostępnych i abonamentowych
+61.10;Działalność w zakresie telekomunikacji przewodowej
+61.20;Działalność w zakresie telekomunikacji bezprzewodowej, z wyłączeniem telekomunikacji satelitarnej
+61.30;Działalność w zakresie telekomunikacji satelitarnej
+61.90;Działalność w zakresie pozostałej telekomunikacji
+62.01;Działalność związana z oprogramowaniem
+62.02;Działalność związana z doradztwem w zakresie informatyki
+62.03;Działalność związana z zarządzaniem urządzeniami informatycznymi
+62.09;Pozostała działalność usługowa w zakresie technologii informatycznych i komputerowych
+63.11;"Przetwarzanie danych; zarządzanie stronami internetowymi (hosting) i podobna działalność"
+63.12;Działalność portali internetowych
+63.91;Działalność agencji informacyjnych
+63.99;Pozostała działalność usługowa w zakresie informacji, gdzie indziej niesklasyfikowana
+64.11;Działalność banku centralnego
+64.19;Pozostałe pośrednictwo pieniężne
+64.20;Działalność holdingów finansowych
+64.30;Działalność trustów, funduszów i podobnych instytucji finansowych
+64.91;Leasing finansowy
+64.92;Pozostałe formy udzielania kredytów
+64.99;Pozostała finansowa działalność usługowa, gdzie indziej niesklasyfikowana, z wyłączeniem ubezpieczeń i funduszów emerytalnych
+65.11;Ubezpieczenia na życie
+65.12;Pozostałe ubezpieczenia osobowe oraz ubezpieczenia majątkowe
+65.20;Reasekuracja
+65.30;Fundusze emerytalne
+66.11;Zarządzanie rynkami finansowymi
+66.12;Działalność maklerska związana z rynkiem papierów wartościowych i towarów giełdowych
+66.19;Pozostała działalność wspomagająca usługi finansowe, z wyłączeniem ubezpieczeń i funduszów emerytalnych
+66.21;Działalność związana z oceną ryzyka i szacowaniem poniesionych strat
+66.22;Działalność agentów i brokerów ubezpieczeniowych
+66.29;Pozostała działalność wspomagająca ubezpieczenia i fundusze emerytalne
+66.30;Działalność związana z zarządzaniem funduszami
+68.10;Kupno i sprzedaż nieruchomości na własny rachunek
+68.20;Wynajem i zarządzanie nieruchomościami własnymi lub dzierżawionymi
+68.31;Pośrednictwo w obrocie nieruchomościami
+68.32;Zarządzanie nieruchomościami wykonywane na zlecenie
+69.10;Działalność prawnicza
+69.20;"Działalność rachunkowo-księgowa; doradztwo podatkowe"
+70.10;Działalność firm centralnych (head offices) i holdingów, z wyłączeniem holdingów finansowych
+70.21;Stosunki międzyludzkie (public relations) i komunikacja
+70.22;Pozostałe doradztwo w zakresie prowadzenia działalności gospodarczej i zarządzania
+71.11;Działalność w zakresie architektury
+71.12;Działalność w zakresie inżynierii i związane z nią doradztwo techniczne
+71.20;Badania i analizy techniczne
+72.11;Badania naukowe i prace rozwojowe w dziedzinie biotechnologii
+72.19;Badania naukowe i prace rozwojowe w dziedzinie pozostałych nauk przyrodniczych i technicznych
+72.20;Badania naukowe i prace rozwojowe w dziedzinie nauk społecznych i humanistycznych
+73.11;Działalność agencji reklamowych
+73.12;Działalność związana z reprezentowaniem mediów
+73.20;Badanie rynku i opinii publicznej
+74.10;Działalność w zakresie specjalistycznego projektowania
+74.20;Działalność fotograficzna
+74.30;Działalność związana z tłumaczeniami
+74.90;Pozostała działalność profesjonalna, naukowa i techniczna, gdzie indziej niesklasyfikowana
+75.00;DZIAŁALNOŚĆ WETERYNARYJNA
+77.11;Wynajem i dzierżawa samochodów osobowych i furgonetek
+77.12;Wynajem i dzierżawa pozostałych pojazdów samochodowych, z wyłączeniem motocykli
+77.21;Wypożyczanie i dzierżawa sprzętu rekreacyjnego i sportowego
+77.22;Wypożyczanie kaset wideo, płyt CD, DVD itp.
+77.29;Wypożyczanie i dzierżawa pozostałych artykułów użytku osobistego i domowego
+77.31;Wynajem i dzierżawa maszyn i urządzeń rolniczych
+77.32;Wynajem i dzierżawa maszyn i urządzeń budowlanych
+77.33;Wynajem i dzierżawa maszyn i urządzeń biurowych, włączając komputery
+77.34;Wynajem i dzierżawa środków transportu wodnego
+77.35;Wynajem i dzierżawa środków transportu lotniczego
+77.39;Wynajem i dzierżawa pozostałych maszyn, urządzeń oraz dóbr materialnych, gdzie indziej niesklasyfikowane
+77.40;Dzierżawa własności intelektualnej i podobnych produktów, z wyłączeniem prac chronionych prawem autorskim
+78.10;Działalność związana z wyszukiwaniem miejsc pracy i pozyskiwaniem pracowników
+78.20;Działalność agencji pracy tymczasowej
+78.30;Pozostała działalność związana z udostępnianiem pracowników
+79.11;Działalność agentów i pośredników turystycznych
+79.12;Działalność organizatorów turystyki
+79.90;Pozostała działalność usługowa w zakresie rezerwacji i działalności z nią związane
+80.10;Działalność ochroniarska, z wyłączeniem obsługi systemów bezpieczeństwa
+80.20;Działalność ochroniarska w zakresie obsługi systemów bezpieczeństwa
+80.30;Działalność detektywistyczna
+81.10;Działalność pomocnicza związana z utrzymaniem porządku w budynkach
+81.21;Niespecjalistyczne sprzątanie budynków i obiektów przemysłowych
+81.22;Specjalistyczne sprzątanie budynków i obiektów przemysłowych
+81.29;Pozostałe sprzątanie
+81.30;Działalność usługowa związana z zagospodarowaniem terenów zieleni
+82.11;Działalność usługowa związana z administracyjną obsługą biura
+82.19;Wykonywanie fotokopii, przygotowywanie dokumentów i pozostała specjalistyczna działalność wspomagająca prowadzenie biura
+82.20;Działalność centrów telefonicznych (call center)
+82.30;Działalność związana z organizacją targów, wystaw i kongresów
+82.91;Działalność świadczona przez agencje inkasa i biura kredytowe
+82.92;Działalność związana z pakowaniem
+82.99;Pozostała działalność wspomagająca prowadzenie działalności gospodarczej, gdzie indziej niesklasyfikowana
+84.11;Kierowanie podstawowymi rodzajami działalności publicznej
+84.12;Kierowanie w zakresie działalności związanej z ochroną zdrowia, edukacją, kulturą oraz pozostałymi usługami społecznymi, z wyłączeniem zabezpieczeń społecznych
+84.13;Kierowanie w zakresie efektywności gospodarowania
+84.21;Sprawy zagraniczne
+84.22;Obrona narodowa
+84.23;Wymiar sprawiedliwości
+84.24;Bezpieczeństwo państwa, porządek i bezpieczeństwo publiczne
+84.25;Ochrona przeciwpożarowa
+84.30;Obowiązkowe zabezpieczenia społeczne
+85.10;Placówki wychowania przedszkolnego
+85.20;Szkoły podstawowe
+85.31;Gimnazja i licea ogólnokształcące
+85.32;Szkoły prowadzące kształcenie zawodowe, z wyłączeniem szkół policealnych
+85.41;Szkoły policealne, kolegia pracowników służb społecznych i placówki doskonalenia nauczycieli
+85.42;Szkoły wyższe
+85.51;Pozaszkolne formy edukacji sportowej oraz zajęć sportowych i rekreacyjnych
+85.52;Pozaszkolne formy edukacji artystycznej
+85.53;Pozaszkolne formy edukacji z zakresu nauki jazdy i pilotażu
+85.59;Pozaszkolne formy edukacji, gdzie indziej niesklasyfikowane
+85.60;Działalność wspomagająca edukację
+86.10;Działalność szpitali
+86.21;Praktyka lekarska ogólna
+86.22;Praktyka lekarska specjalistyczna
+86.23;Praktyka lekarska dentystyczna
+86.90;Pozostała działalność w zakresie opieki zdrowotnej
+87.10;Pomoc społeczna z zakwaterowaniem zapewniająca opiekę pielęgniarską
+87.20;Pomoc społeczna z zakwaterowaniem dla osób z zaburzeniami psychicznymi
+87.30;Pomoc społeczna z zakwaterowaniem dla osób w podeszłym wieku i osób niepełnosprawnych
+87.90;Pozostała pomoc społeczna z zakwaterowaniem
+88.10;Pomoc społeczna bez zakwaterowania dla osób w podeszłym wieku i osób niepełnosprawnych
+88.91;Opieka dzienna nad dziećmi
+88.99;Pozostała pomoc społeczna bez zakwaterowania, gdzie indziej niesklasyfikowana
+90.01;Działalność związana z wystawianiem przedstawień artystycznych
+90.02;Działalność wspomagająca wystawianie przedstawień artystycznych
+90.03;Artystyczna i literacka działalność twórcza
+90.04;Działalność obiektów kulturalnych
+91.01;Działalność bibliotek i archiwów
+91.02;Działalność muzeów
+91.03;Działalność historycznych miejsc i budynków oraz podobnych atrakcji turystycznych
+91.04;Działalność ogrodów botanicznych i zoologicznych oraz obszarów i obiektów ochrony przyrody
+92.00;DZIAŁALNOŚĆ ZWIĄZANA Z GRAMI LOSOWYMI I ZAKŁADAMI WZAJEMNYMI
+93.11;Działalność obiektów sportowych
+93.12;Działalność klubów sportowych
+93.13;Działalność obiektów służących poprawie kondycji fizycznej
+93.19;Pozostała działalność związana ze sportem
+93.21;Działalność wesołych miasteczek i parków rozrywki
+93.29;Pozostała działalność rozrywkowa i rekreacyjna
+94.11;Działalność organizacji komercyjnych i pracodawców
+94.12;Działalność organizacji profesjonalnych
+94.20;Działalność związków zawodowych
+94.91;Działalność organizacji religijnych
+94.92;Działalność organizacji politycznych
+94.99;Działalność pozostałych organizacji członkowskich, gdzie indziej niesklasyfikowana
+95.11;Naprawa i konserwacja komputerów i urządzeń peryferyjnych
+95.12;Naprawa i konserwacja sprzętu (tele)komunikacyjnego
+95.21;Naprawa i konserwacja elektronicznego sprzętu powszechnego użytku
+95.22;Naprawa i konserwacja urządzeń gospodarstwa domowego oraz sprzętu użytku domowego i ogrodniczego
+95.23;Naprawa obuwia i wyrobów skórzanych
+95.24;Naprawa i konserwacja mebli i wyposażenia domowego
+95.25;Naprawa zegarów, zegarków oraz biżuterii
+95.29;Naprawa pozostałych artykułów użytku osobistego i domowego
+96.01;Pranie i czyszczenie wyrobów włókienniczych i futrzarskich
+96.02;Fryzjerstwo i pozostałe zabiegi kosmetyczne
+96.03;Pogrzeby i działalność pokrewna
+96.04;Działalność usługowa związana z poprawą kondycji fizycznej
+96.09;Pozostała działalność usługowa, gdzie indziej niesklasyfikowana
+97.00;GOSPODARSTWA DOMOWE ZATRUDNIAJĄCE PRACOWNIKÓW
+98.10;Gospodarstwa domowe produkujące wyroby na własne potrzeby
+98.20;Gospodarstwa domowe świadczące usługi na własne potrzeby
+99.00;ORGANIZACJE I ZESPOŁY EKSTERYTORIALNE
